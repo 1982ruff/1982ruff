@@ -52,8 +52,4 @@ IDEs:
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1982ruff)](https://github.com/1982ruff)
-
-</br>
-
 
