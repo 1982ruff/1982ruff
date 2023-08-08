@@ -1,7 +1,7 @@
 ![github_image](https://user-images.githubusercontent.com/109545471/232394771-6166c7ca-8ac4-49d4-975f-51084a787244.jpg)
-
+https://github.com/1982ruff/1982ruff/blob/main/README.md
 <h3 align="center">
-Hi, this is <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">RUFF</a> 👋
+Hi, this is <a href="https://www.ruff-web.site/" target="_blank" rel="noreferrer">RUFF</a> 👋
 </h3>
 
 <h2 align="center">
